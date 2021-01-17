@@ -10,3 +10,5 @@ The project from the Udacity Deep Learning Nanodegree Programme deploys the use 
 - Transfer Learning ( Resnet50, Densenet161)
 
 
+# How to use
+Open dog_app.ipynb on a jupyter notebook environment, or Google colab. All the detailed information is given inside the notebook.
