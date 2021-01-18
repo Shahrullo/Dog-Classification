@@ -16,3 +16,4 @@ Open dog_app.ipynb on a jupyter notebook environment, or Google colab. All the d
 1. When used simple layer structure, the accuracy showed only 14%
 2. When used with Resnet-50 as transfer learning, the accuracy increased rapidly and reached to 83%
 3. The best result has reached with densenet-161 so far - with the accuracy of 88%
+Could not load the trained models of resnet and densenet because of size limit. However, if you run the notebook, you're highly going to get the same result!
